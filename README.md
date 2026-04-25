@@ -12,6 +12,17 @@ Nesse projeto criamos um site utilizando HTML como estrutura base, CSS para part
 - IDE: VScode
 - IA: llama-3.3-70b-versatile através do Grok
 
+# Pré-requisitos #
+Certifique-se de ter as seguintes ferramentas instaladas em sua máquina:
+[VScode](https://code.visualstudio.com/download)
+
+# Configuração do ambiente #
+1. Clone este repositório
+
+2. Acesse diretório do projeto
+
+3. Abra com o VScode
+
 
 # Contribuindo #
 Sinta-se à vontade para contribuir com este projeto! Abra uma issue ou envie um pull request com suas sugestões ou correções.
