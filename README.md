@@ -14,7 +14,9 @@ Nesse projeto criamos um site utilizando HTML como estrutura base, CSS para part
 
 # Pré-requisitos #
 Certifique-se de ter as seguintes ferramentas instaladas em sua máquina:
+
 [VScode](https://code.visualstudio.com/download)
+
 
 # Configuração do ambiente #
 1. Clone este repositório
