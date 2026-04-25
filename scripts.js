@@ -38,4 +38,4 @@ async function gerarCodigo() {
 
 }    
 
-botao.addEventListener("click", gerarCodigo);
+botao.addEventListener("click", gerarCodigo);   
