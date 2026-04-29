@@ -97,10 +97,11 @@ h2 {
     font-family: Consolas, monospace;
     white-space: pre-wrap;
 }
+
 .bloco-codigo code {
     display: block;
 }
 
 .resultado-codigo {
     padding: 0;
-}   
+}
