@@ -17,6 +17,7 @@ Certifique-se de ter as seguintes ferramentas instaladas em sua máquina:
 
 [VScode](https://code.visualstudio.com/download)
 
+Não esqueça de criar uma nova Chave de API através do [Grok](https://console.groq.com/home)
 
 # Configuração do ambiente #
 1. Clone este repositório
@@ -25,6 +26,7 @@ Certifique-se de ter as seguintes ferramentas instaladas em sua máquina:
 
 3. Abra com o VScode
 
+4. Adicione sua chave API no arquivo scripts.js
 
 # Contribuindo #
 Sinta-se à vontade para contribuir com este projeto! Abra uma issue ou envie um pull request com suas sugestões ou correções.
